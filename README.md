@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archie-2006&label=Profile%20views&color=0e75b6&style=flat" alt="archie-2006" /> </p>
 
-- Currently researching **plants and embedded systems**
+- Research areas in **plants and embedded systems**
+- Currently researching **mixed reality and AR/VR applications**
 
 
 </p>
